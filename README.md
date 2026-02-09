@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/XXXXXXXX/malaria-data-in-africa
 ---
 
 ## Usage
-1. Open the notebook `Malaria_PCA.ipynb` in **Google Colab** or **VS Code**.  
+1. Open the notebook `Copy of PCA_forrmative_1_Tapiwanashe_Gift_Marufu_Jr.ipynb` in **Google Colab** or **VS Code**.  
 2. Run all cells sequentially.  
 3. Visualize PCA results and analyze the dimensionality-reduced dataset.  
 
