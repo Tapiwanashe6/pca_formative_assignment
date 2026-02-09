@@ -14,6 +14,11 @@ The goal is to **reduce the dimensionality** of the dataset while preserving as 
 
 ---
 
+## Dataset Source
+The dataset used in this project was obtained from Kaggle:
+
+https://www.kaggle.com/datasets/XXXXXXXX/malaria-data-in-africa
+
 ## Steps Performed
 
 1. **Load and Standardize Data**
